@@ -1,0 +1,8 @@
+You: AI full form
+CodTechBot: AI stands for Artificial Intelligence.
+
+You: How are you??
+CodTechBot: I'm just a program, but I'm functioning as expected!
+
+You: Tell me a Joke
+CodTechBot: Why do programmers prefer dark mode? Because light attracts bugs!
